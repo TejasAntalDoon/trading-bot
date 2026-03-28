@@ -38,4 +38,7 @@ trading_bot/
 All API requests, responses, and errors are saved to `trading_bot.log`.
 
 <img width="987" height="261" alt="Screenshot 1" src="https://github.com/user-attachments/assets/34cae639-bada-4e20-8af3-cce9d2d25143" />
+<img width="987" height="267" alt="Screenshot 2" src="https://github.com/user-attachments/assets/ce138cc2-b9f7-409b-aa58-1f74d559fae6" />
+<img width="990" height="269" alt="Screenshot 3" src="https://github.com/user-attachments/assets/ab6e030d-4807-444d-9b0d-dcfeea721470" />
+<img width="985" height="283" alt="Screenshot 4" src="https://github.com/user-attachments/assets/1cebd997-eeb5-410b-8d85-79d355a0438b" />
 
