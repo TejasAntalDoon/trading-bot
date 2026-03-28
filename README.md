@@ -4,8 +4,8 @@
 
 ```bash
 pip install -r requirements.txt
-export BINANCE_API_KEY=x1DLQYQllM67DLBePCcWy1TZzvS6HhQhKtat6YJr9tKNqZiYBxxzXlGvcFth86c6
-export BINANCE_API_SE CRET=UvKvosmMig70dVvXyq2m6XXZjqBXWeqCff8s3GaexiYGbHfjxlEr1FqF14DNFd7C
+export BINANCE_API_KEY= your api key here
+export BINANCE_API_SE CRET= your secret key here
 ```
 
 ## Usage
